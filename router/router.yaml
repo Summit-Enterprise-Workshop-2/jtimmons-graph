@@ -41,3 +41,8 @@ preview_persisted_queries:
     require_id: false
 apq:
   enabled: false
+
+authorization:
+  require_authentication: false
+  preview_directives:
+    enabled: true
